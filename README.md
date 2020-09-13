@@ -1,1 +1,1 @@
-# media-queries
+# class-projects
